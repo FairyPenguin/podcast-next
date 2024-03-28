@@ -8,7 +8,7 @@ export default function Home() {
 
         <h1>Tech Podcast</h1>
         <br />
-        <h2>قريبًا</h2>
+        <h1>🤐 قريبًا منذ سنتين</h1>
 
       </div>
     </main>
